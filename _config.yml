@@ -1,0 +1,16 @@
+title: Gayathri Annem
+email: annemgacs@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is my blog which is developed for placing my work on some algorithms and providing solutions to some leetcode probelms.
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+github_username:  annemgacs
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+#[jekyll]: https://jekyllrb.com/
